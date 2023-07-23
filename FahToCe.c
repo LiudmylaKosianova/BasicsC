@@ -1,4 +1,5 @@
 #include <stdio.h>
+//takes temperature in fahrenheit and converts to celsius 
 
 int main(){
 
