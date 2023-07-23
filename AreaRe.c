@@ -11,7 +11,7 @@ int main(){
 
     int area = length * breadth;
 
-    prntf("%d", area);
+    printf("%d", area);
 
     return 0;
 }
