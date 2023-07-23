@@ -1,4 +1,6 @@
 #include<stdio.h>
+//takes input integers for length and breadth of the rectangle 
+//calculates and prints area of the rectangle
 
 int main(){
     int length;
@@ -10,6 +12,6 @@ int main(){
     int area = length * breadth;
 
     prntf("%d", area);
-    
+
     return 0;
 }
